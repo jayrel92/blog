@@ -17,16 +17,9 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content"></h2>
-<frameset rows="100%,*">
-    <frame src=
-"https://drive.google.com/file/d/1VgJhg481n8qhhAIIXsqaZF1eovh3tWVa/preview">
-        <noframes>
-
-            <body>
-
-            </body>
-        </noframes>
-</frameset> 
+<body style="margin:0px;padding:0px;overflow:hidden">
+    <iframe src="https://drive.google.com/file/d/1VgJhg481n8qhhAIIXsqaZF1eovh3tWVa/preview" frameborder="0" style="overflow:hidden;height:150%;width:150%" height="150%" width="150%"></iframe>
+</body>
 
 <hr class="major" />
 
