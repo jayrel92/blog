@@ -21,8 +21,6 @@ nav-menu: true
     <iframe src="https://drive.google.com/file/d/1VgJhg481n8qhhAIIXsqaZF1eovh3tWVa/preview" frameborder="0" style="overflow:hidden;height:100%;width:100%" height="100%" width="100%"></iframe>
 </body>
 
-<hr class="major" />
-
 </div>
 <div class="6u$ 12u$(medium)">
 
