@@ -26,9 +26,6 @@ nav-menu: true
 <div class="6u$ 12u$(medium)">
 
 </div>
-</div>
-
-</div>
 </section>
 
 </div>
