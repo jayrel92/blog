@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: landing
-description: 'Test'
+description: 
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

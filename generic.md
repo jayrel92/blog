@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-description: Sorcerer
+description: 
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
