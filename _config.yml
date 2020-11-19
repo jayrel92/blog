@@ -3,7 +3,7 @@ title: Lab.Addict
 subtitle:
 email: jay.a.lewis@gmail.com
 description: HomeLab blog focused around Virtualization <br /> Storage Servers and other Technology.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: #
 author:
 street_address: 280 Hillside Ave
