@@ -3,8 +3,8 @@ title: Lab.Addict
 subtitle:
 email: jay.a.lewis@gmail.com
 description: HomeLab blog focused around Virtualization <br /> Storage Servers and other Technology.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: labaddict.org
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: www.labaddict.org
 author:
 street_address: 280 Hillside Ave
 city: Palisades Park
