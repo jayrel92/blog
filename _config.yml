@@ -15,7 +15,7 @@ phone: (201) 403-8392
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 2
 
 # social settings
 500px_url:
