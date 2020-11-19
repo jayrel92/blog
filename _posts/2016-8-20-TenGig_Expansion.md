@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Current
-description: Homelab V8
-image: assets/images/pic06.jpg
+title: 10G Expansion
+description: Homelab V7
+image: assets/images/pic14.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
