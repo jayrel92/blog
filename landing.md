@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: landing
-description: 
+description:
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -9,7 +9,7 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
+<!-- One
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
-</section>
+</section>-->
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -71,7 +71,7 @@ nav-menu: true
 	</section>
 </section>
 
-<!-- Three -->
+<!-- Three
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -82,6 +82,6 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section>-->
 
 </div>
