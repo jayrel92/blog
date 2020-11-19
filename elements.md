@@ -18,7 +18,7 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content"></h2>
 <body style="margin:0px;padding:0px">
-    <iframe src="https://drive.google.com/file/d/1VgJhg481n8qhhAIIXsqaZF1eovh3tWVa/preview" frameborder="0" style="overflow:hidden;height:100%;width:100%" height="100%" width="100%"></iframe>
+    <iframe src="https://drive.google.com/file/d/1VgJhg481n8qhhAIIXsqaZF1eovh3tWVa/preview" frameborder="0" style="overflow:hidden;height:1000px;width:100%" height="1000px" width="100%"></iframe>
 </body>
 
 
