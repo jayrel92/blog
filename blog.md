@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: blog
 title: Homelab Blog
 landing-title: 'Homelab Blog'
 nav-menu: true
