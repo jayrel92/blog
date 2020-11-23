@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Magna
-description: Lorem etiam nullam
+title: First Rack
+description:
 image: assets/images/pic03.jpg
 ---
 
