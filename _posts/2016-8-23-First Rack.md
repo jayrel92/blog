@@ -2,7 +2,7 @@
 layout: post
 title: First Rack
 description:
-image: assets/images/pic16.jpg
+image: assets/images/pic04.jpg
 ---
 
 I lucked out and found a Startech 12u 4 post rack on r/homelabsales for $100. This would let me use real rails to mount my full depth servers, and clean up a lot of the cable management. At this point I added a UPS to keep the network and wifi AP up during storms.
