@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Low Power Lab
+title: Whitebox Builds
 description:
 image: assets/images/pic17.jpg
 ---

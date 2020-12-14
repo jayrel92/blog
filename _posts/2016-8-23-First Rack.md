@@ -13,4 +13,4 @@ Here you can see that I did a bit more organizing of the rack. To accommodate a 
 
 The 1" flat CAT6 cables looked like spaghetti and made the rack untidy. I had to look for another shorter high quality ethernet cables.
 
-I kept this setup for a few months learning the basics of VMWare vSphere on the Dell servers.
+I kept this setup for a few months learning VMWare ESXi/vSphere on the Dell servers but they were loud, power hungry. To cut down on noise and power I decided to go the Whitebox route for a new ESXi Host and NAS.
