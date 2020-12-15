@@ -11,6 +11,6 @@ To accommodate for hardware I plan on using I upgraded to a 24-port Unifi Switch
 
 Here you can see that I did a bit more organizing of the rack. To accommodate a monitor and keyboard as my KVM console I moved my wifiAP to a more central location on the wall in my room. I added a 1U brush panel to allow some cables to pass through to the EdgeRouter.
 
-The 1" flat CAT6 cables looked like spaghetti and made the rack untidy. I had to look for another shorter high quality ethernet cables.
+The 1" flat CAT6 cables looked like spaghetti and made the rack untidy. I had to look for other shorter high quality ethernet cables.
 
 I kept this setup for a few months learning VMWare ESXi/vSphere on the Dell servers but they were loud, power hungry. To cut down on noise and power I decided to go the Whitebox route for a new ESXi Host and NAS.
